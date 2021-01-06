@@ -10,38 +10,38 @@ It can also be run from the command lie via running:
 
 The program requires the flowers folder which is in the following layout:
 
-/flowers
-   /train
-     /1
++ flowers
+   + train
+     + 1
        - specific image files
-     /2 
+     + 2 
        - specific image files
      .
      .
      .
-     /102
+     + 102
        - specific image files
        
-   /test
-     /1
+   + test
+     + 1
        - specific image files
-     /2 
+     + 2 
        - specific image files
      .
      .
      .
-     /102
+     + 102
        - specific image files
    
    + valid
-     /1
+     + 1
        - specific image files
-     /2 
+     + 2 
        - specific image files
      .
      .
      .
-     /102
+     + 102
        - specific image files
        
   #Happy testing and learning of the AI products @Pitson Josiah Mwakabila
